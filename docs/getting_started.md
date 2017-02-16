@@ -68,7 +68,7 @@ We are almost done, the only remaining step is to approve the pull request on th
 
 ![Approving Pull Requests](docs/imgs/included/git_pull.jpg)
 
-Going to the website, click over to the 'Pull Requests' tab (circled above). If (and only if) a pull requests have been made, they will then be listed below. They should include the summary message, as well as which branches are involved in the request. Click the pull request you want to approve to get the details. If you are satisfied, click the approve pull request button, and the changes should go through.
+Going to the website, click over to the 'Pull Requests' tab (circled above). If (and only if) a pull requests have been made, they will then be listed below. They should include the summary message, as well as which branches are involved in the request. Click the pull request you want to approve to get the details. If you are satisfied, click the 'merge pull request' request button, and then 'merge branches' (or something to that effect). The changes should now take effect.
 
 **ADD SECTION HERE ON BRINGING CHANGES MADE FROM PARENT BRANCH INTO CHILD BRANCH**
 
