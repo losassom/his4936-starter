@@ -1,9 +1,4 @@
-# Hacking History
-<small>For students of HIS4936 at the University of South Florida</small>
-
-## Project Template
-
-This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
+# Getting Started
 
 ## Getting a Copy
 
