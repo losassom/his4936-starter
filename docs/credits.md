@@ -1,3 +1,4 @@
 # Project credits
 
-* David J. Thomas - Project Design/Management, Coding, Visualizations, and Analysis
+* David J. Thomas - Project Management, Coding, Visualizations, and Analysis
+* Students of HIS4936, Hacking History: Programming Digital Scholarship
