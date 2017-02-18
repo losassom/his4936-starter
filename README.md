@@ -1,6 +1,12 @@
 # Hacking History
 <small>For students of HIS4936 at the University of South Florida</small>
 
+**REQUIREMENTS BEFORE STARTING**
++ [GitHub account](https://github.com) created
++ [GitHub Desktop](https://desktop.github.com) client installed
++ [Atom](https://atom.io) editor installed
++ [Python 3.x](https://www.python.org/) installed
+
 ## Project Template
 
 This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
@@ -11,7 +17,7 @@ To begin working on the project, you need 'fork' this repository. This creates a
 
 ---
 
-![Forking this repository](docs/imgs/included/git_fork.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_fork.jpg)
 
 ---
 
@@ -19,7 +25,7 @@ Assuming you are at the main GitHub page for this repository, click the "Fork" b
 
 ---
 
-![Cloning a local version](docs/imgs/included/git_clone.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_clone.jpg)
 
 ---
 
@@ -31,7 +37,7 @@ You can add/remove files to this repository folder using Explorer (Windows) or F
 
 ---
 
-![Opening in Atom](docs/imgs/included/git_atom.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_atom.jpg)
 
 ---
 
@@ -49,7 +55,7 @@ To commit, open your GitHub Desktop client, and make sure you have the his4936-s
 
 ---
 
-![Committing and Pushing](docs/imgs/included/git_commit.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_commit.jpg)
 
 ---
 
@@ -73,7 +79,7 @@ When working as a team, changes made by one person might adversely affect the wo
 
 ---
 
-![Making a New Branch](docs/imgs/included/git_branch_new.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_branch_new.jpg)
 
 ---
 
@@ -83,7 +89,7 @@ You can switch back and forth between which branch you are working on by clickin
 
 ---
 
-![Viewing Remote Branches](docs/imgs/included/git_branch_remote.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_branch_remote.jpg)
 
 ---
 
@@ -97,7 +103,7 @@ We are almost done, the only remaining step is to approve the pull request on th
 
 ---
 
-![Approving Pull Requests](docs/imgs/included/git_pull.jpg)
+[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_pull.jpg)
 
 ---
 
