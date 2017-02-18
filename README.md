@@ -17,7 +17,7 @@ To begin working on the project, you need 'fork' this repository. This creates a
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_fork.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_fork.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ Assuming you are at the main GitHub page for this repository, click the "Fork" b
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_clone.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_clone.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ You can add/remove files to this repository folder using Explorer (Windows) or F
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_atom.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_atom.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ To commit, open your GitHub Desktop client, and make sure you have the his4936-s
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_commit.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_commit.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ When working as a team, changes made by one person might adversely affect the wo
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_branch_new.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_branch_new.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ You can switch back and forth between which branch you are working on by clickin
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_branch_remote.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_branch_remote.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ We are almost done, the only remaining step is to approve the pull request on th
 
 ---
 
-[![Link to Image](docs/imgs/screenshot.jpg)](docs/imgs/included/git_pull.jpg)
+[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_pull.jpg)
 
 ---
 
